@@ -1,0 +1,302 @@
+﻿.\announcements.txt
+57112 lines
+609457 words
+3055361 characters
+
+
+.\Art.txt
+285187 lines
+2017530 words
+9719568 characters
+
+
+.\AskReddit.txt
+349160 lines
+5686698 words
+25336220 characters
+
+
+.\askscience.txt
+117820 lines
+2141756 words
+10739442 characters
+
+
+.\aww.txt
+409823 lines
+2446768 words
+11422474 characters
+
+
+.\books.txt
+317512 lines
+4042601 words
+18769065 characters
+
+
+.\creepy.txt
+357839 lines
+1975134 words
+9840380 characters
+
+
+.\dataisbeautiful.txt
+198137 lines
+2354112 words
+11903952 characters
+
+
+.\DIY.txt
+375794 lines
+3141479 words
+14691040 characters
+
+
+.\Documentaries.txt
+242856 lines
+2816584 words
+14067749 characters
+
+
+.\EarthPorn.txt
+346033 lines
+2207755 words
+10837408 characters
+
+
+.\explainlikeimfive.txt
+195374 lines
+3716915 words
+17764931 characters
+
+
+.\food.txt
+346911 lines
+1913612 words
+9213104 characters
+
+
+.\funny.txt
+310328 lines
+2011924 words
+9613681 characters
+
+
+.\Futurology.txt
+227253 lines
+2977277 words
+14591125 characters
+
+
+.\gadgets.txt
+237348 lines
+2242742 words
+10617627 characters
+
+
+.\gaming.txt
+283172 lines
+1884117 words
+8965159 characters
+
+
+.\GetMotivated.txt
+367360 lines
+3147360 words
+14596287 characters
+
+
+.\gifs.txt
+255220 lines
+1613388 words
+7780027 characters
+
+
+.\history.txt
+203782 lines
+3154884 words
+15739184 characters
+
+
+.\IAmA.txt
+270742 lines
+3186432 words
+14981346 characters
+
+
+.\InternetIsBeautiful.txt
+252321 lines
+1778805 words
+9140702 characters
+
+
+.\Jokes.txt
+307951 lines
+1715250 words
+8267022 characters
+
+
+.\LifeProTips.txt
+328421 lines
+4247536 words
+19109283 characters
+
+
+.\listentothis.txt
+131544 lines
+1045724 words
+5354699 characters
+
+
+.\memes.txt
+453741 lines
+2211133 words
+10680640 characters
+
+
+.\mildlyinteresting.txt
+333486 lines
+1917920 words
+9427668 characters
+
+
+.\movies.txt
+192032 lines
+1747618 words
+8372819 characters
+
+
+.\Music.txt
+306897 lines
+2873909 words
+13659194 characters
+
+
+.\news.txt
+201731 lines
+2325519 words
+11285799 characters
+
+
+.\nosleep.txt
+223896 lines
+2218479 words
+10202423 characters
+
+
+.\nottheonion.txt
+228254 lines
+2094331 words
+10115361 characters
+
+
+.\OldSchoolCool.txt
+329895 lines
+2097390 words
+10052200 characters
+
+
+.\personalfinance.txt
+418794 lines
+7541105 words
+33737338 characters
+
+
+.\philosophy.txt
+192432 lines
+3200750 words
+15854101 characters
+
+
+.\photoshopbattles.txt
+82569 lines
+197608 words
+2216231 characters
+
+
+.\pics.txt
+260867 lines
+2012611 words
+9733606 characters
+
+
+.\science.txt
+175316 lines
+2039251 words
+10427058 characters
+
+
+.\Showerthoughts.txt
+256880 lines
+2339047 words
+11040942 characters
+
+
+.\space.txt
+214480 lines
+2144032 words
+11015768 characters
+
+
+.\sports.txt
+273298 lines
+1866410 words
+8973036 characters
+
+
+.\technology.txt
+260959 lines
+2892172 words
+14294955 characters
+
+
+.\television.txt
+214777 lines
+2069511 words
+9814050 characters
+
+
+.\tifu.txt
+359199 lines
+3978465 words
+17837073 characters
+
+
+.\todayilearned.txt
+167112 lines
+1853071 words
+8858809 characters
+
+
+.\TwoXChromosomes.txt
+258823 lines
+4121222 words
+18584815 characters
+
+
+.\UpliftingNews.txt
+251414 lines
+2389520 words
+11433122 characters
+
+
+.\videos.txt
+211580 lines
+1969570 words
+9701794 characters
+
+
+.\worldnews.txt
+198740 lines
+2193876 words
+11179084 characters
+
+
+.\WritingPrompts.txt
+884094 lines
+14210789 words
+63954139 characters
+
+----------
+Max word count: 14210789 in file .\WritingPrompts.txt
+Total: 138581149 words
